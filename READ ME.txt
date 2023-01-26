@@ -1,0 +1,13 @@
+This project is a full stack MERN Todo application that allows users to add, mark as complete, and delete tasks on their list. 
+
+To set up the project, replace the MongoDB connection code in the 'api/server.js' file with your own code and user password. 
+
+
+To run the project, open two terminal windows, one in the 'api' directory (for the backend) and one in the 'client' directory (for the frontend). 
+
+In Both terminal, run "npm install" command to install the dependencies
+
+
+In the 'api' terminal, run the command 'npm start' and in the 'client' terminal, run the command 'npm run start'. 
+
+Congratulations, you now have your own Todo list web application!
